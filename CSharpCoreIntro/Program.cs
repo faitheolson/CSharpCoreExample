@@ -26,6 +26,7 @@ namespace CSharpCoreIntro
             Console.WriteLine($"The output is {input}");
 
         //adding this to push to Git Hub
+        //trying a 3rd comitt
 
 
         }
