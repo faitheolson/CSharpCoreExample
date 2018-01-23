@@ -1,0 +1,7 @@
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.csprojResolveAssemblyReference.cache
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.csproj.CoreCompileInputs.cache
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.exe.config
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.exe
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\bin\Debug\CSharpCoreIntro.pdb
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.exe
+C:\Users\TS-1\source\repos\CSharpCoreIntro\CSharpCoreIntro\obj\Debug\CSharpCoreIntro.pdb
